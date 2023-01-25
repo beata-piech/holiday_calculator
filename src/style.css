@@ -1,0 +1,51 @@
+ul {
+  list-style-type: none;
+}
+h4 {
+  margin-bottom: 0.5%;
+}
+input {
+  width: 25%;
+  margin-right: 0.5%;
+  height: 26px;
+}
+::placeholder {
+  font-style: italic;
+}
+input.cost {
+  background: rgb(244, 244, 206);
+  border: solid 2px;
+}
+input.highlight {
+  border-color: rgb(243, 16, 84);
+}
+th,
+td {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+th {
+  width: 6%;
+  text-align: left;
+  background-color: rgb(165, 232, 247);
+}
+td.total {
+  text-align: center;
+  background-color: rgb(165, 232, 247);
+}
+button.btn {
+  margin: 2% 1%;
+  padding: 0.5% 2%;
+  background-color: rgb(243, 243, 138);
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+button.outside {
+  margin-right: 4%;
+  background-color: rgb(23, 196, 235);
+}
+button#print-btn,
+button#trip-btn,
+table {
+  display: none;
+}
