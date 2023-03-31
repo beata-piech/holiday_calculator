@@ -1,5 +1,5 @@
 # holiday_calculator
-Holiday cost calculator bulit with ReactJs and JavaScript.
+Holiday cost calculator built with ReactJs and JavaScript.
 Enables to enter info about the trip and calculate its total cost. Once the form submitted the table will be displayed. Then, the user can add another trip or print the table to pdf.
 DEMO: https://react-holidaycalculator-penmcz.stackblitz.io
 
